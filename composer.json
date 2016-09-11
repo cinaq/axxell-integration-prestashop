@@ -1,0 +1,19 @@
+{
+  "name": "prestashop/axxell-recommendations",
+  "description": "PrestaShop module axxell-recommendations",
+  "homepage": "https://github.com/xiwenc/axxell-prestashop-module",
+  "license": "AFL - Academic Free License (AFL 3.0)",
+  "authors": [
+    {
+      "name": "Xiwen Cheng",
+      "email": "x@cinaq.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.2"
+  },
+  "config": {
+    "preferred-install": "dist"
+  },
+  "type": "prestashop-module"
+}
